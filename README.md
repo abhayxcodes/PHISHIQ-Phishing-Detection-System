@@ -1,6 +1,6 @@
 # 🛡️ PhishIQ — Phishing Management System
 
-> Detect phishing in URLs, emails, and SMS. Understand *why* it was flagged. Know what to do if you've already been hit.
+> Detect phishing in URLs, emails, and SMS. Understand *why* it was flagged. Know what to do if you've already been hit !
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Flask](https://img.shields.io/badge/Flask-Web%20App-black)
