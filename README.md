@@ -8,7 +8,7 @@
 ![Docker](https://img.shields.io/badge/Docker-supported-2496ED)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-PhishIQ is a Flask web app that combines **rule-based detection** with **machine learning models** to catch phishing across three channels: **URLs, emails, and SMS**. If something goes wrong, a built-in **Recovery Center** walks you through the next steps.
+PhishIQ is a Flask web app that combines **rule-based detection** with **machine learning models** to catch phishing across three channels: **URLs, emails, and SMS**. If something goes wrong, a built-in **Recovery Center** walks you through the next steps..
 
 ---
 
