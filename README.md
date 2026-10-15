@@ -32,7 +32,7 @@ PhishIQ is a Flask web app that combines **rule-based detection** with **machine
 
 ---
 
-## Why PhishIQ?
+## Why PhishIQ???
 
 Most phishing checkers give you a yes/no and nothing else. PhishIQ is built around three ideas--
 
