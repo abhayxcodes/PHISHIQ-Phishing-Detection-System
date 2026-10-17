@@ -171,7 +171,7 @@ docker build -t phishiq .
 docker run -p 5000:5000 phishiq
 ```
 
-Then open **http://localhost:5000**. If your `Dockerfile` exposes a different port, adjust the `-p` mapping to match.
+Then open **http://localhost:5000**. If your `Dockerfile` exposes a different port, adjust the `-p` mapping to match!!
 
 ---
 
