@@ -84,13 +84,13 @@ Most phishing checkers give you a yes/no and nothing else. PhishIQ is built arou
 
 **Rule engine:** Each red flag adds 10 points (30 for heavy grammar errors in emails). The total is normalized to a 0–100% risk score.
 
-**ML layer:** Each channel has its own Random Forest classifier, trained on public datasets:
+**ML layer:** Each channel has its own Random Forest classifier, trained on public datasets
 
 | Channel | Dataset | Model | Input |
 |---|---|---|---|
 | URL | PhiUSIIL Phishing URL Dataset | Random Forest (600 trees, balanced) | 51 handcrafted URL features |
 | Email | CEAS-08 | Random Forest (200 trees, depth 20) | TF-IDF (50 terms) + URL feature |
-| SMS | Dataset_10191 (ham / spam / smishing) | Random Forest (200 trees, depth 25) | TF-IDF (3000 terms, 1–2 grams) |
+| SMS | Dataset_10191 (ham / spam / smishing) | Random Forest (200 trees, depth 25) | TF-IDF (3000 terms, 1–2 grams) |!!
 
 ---
 
