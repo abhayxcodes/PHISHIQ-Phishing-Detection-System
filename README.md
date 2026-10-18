@@ -34,7 +34,7 @@ PhishIQ is a Flask web app that combines **rule-based detection** with **machine
 
 ## Why PhishIQ???
 
-Most phishing checkers give you a yes/no and nothing else. PhishIQ is built around three ideas--
+Most phishing checkers give you a yes/no and nothing else. PhishIQ is built around three ideas----
 
 1. **Explain, don't just flag.** Every scan returns human-readable reasons (e.g. "@ symbol detected", "short link found").
 2. **Two opinions are better than one.** A transparent rule engine and an ML model score every input independently.
