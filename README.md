@@ -84,7 +84,7 @@ Most phishing checkers give you a yes/no and nothing else. PhishIQ is built arou
 
 **Rule engine:** Each red flag adds 10 points (30 for heavy grammar errors in emails). The total is normalized to a 0–100% risk score.
 
-**ML layer:** Each channel has its own Random Forest classifier, trained on public datasets
+**ML layer:** Each channel has its own Random Forest classifier, trained on public datasets !
 
 | Channel | Dataset | Model | Input |
 |---|---|---|---|
