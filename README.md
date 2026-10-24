@@ -105,7 +105,7 @@ Most phishing checkers give you a yes/no and nothing else. PhishIQ is built arou
 
 ---
 
-## Project Structure
+## Project Structure..
 
 ```
 PHISHIQ/
